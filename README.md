@@ -52,13 +52,14 @@ cd waste-reduction-recipes
 
 # Open index.html in your browser
 
+---
 
 ⚠️ Note: You need a valid API key from Spoonacular
 . Replace the placeholder in api.js:
 const API_KEY = "your_api_key_here";
 
+---
 🌟 Future Enhancements
-
 -Add meal planning & expiry tracking
 -Offline support for stored recipes
 -Personalized recipe suggestions with AI
