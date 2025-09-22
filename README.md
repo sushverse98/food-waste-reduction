@@ -1,5 +1,3 @@
-# food-waste-reduction
-Interactive web app for reducing food waste by generating real-time recipe ideas with Spoonacular API
 # 🥗 Waste Reduction Recipes  
 
 A simple and interactive **web application** that helps reduce food waste by suggesting recipes based on the ingredients you already have.  
