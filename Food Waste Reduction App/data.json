@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Tomato Cheese Sandwich",
+      "ingredients": ["Tomato", "Cheese", "Bread", "Butter"],
+      "instructions": "Toast bread, add cheese and tomato, and grill it.",
+      "image": "assets/images/sandwich.jpg",
+      "category": "Breakfast"
+    },
+    {
+      "id": 2,
+      "name": "Veggie Stir Fry",
+      "ingredients": ["Carrot", "Broccoli", "Soy Sauce", "Garlic"],
+      "instructions": "Stir fry veggies in soy sauce and serve hot.",
+      "image": "assets/images/stirfry.jpg",
+      "category": "Lunch"
+    },
+    {
+      "id": 3,
+      "name": "Banana Smoothie",
+      "ingredients": ["Banana", "Milk", "Honey"],
+      "instructions": "Blend all ingredients until smooth. Serve chilled.",
+      "image": "assets/images/smoothie.jpg",
+      "category": "Beverages"
+    },
+    {
+      "id": 4,
+      "name": "Garlic Butter Rice",
+      "ingredients": ["Rice", "Garlic", "Butter", "Parsley"],
+      "instructions": "Cook rice, sauté garlic in butter, mix together, and garnish with parsley.",
+      "image": "assets/images/rice.jpg",
+      "category": "Dinner"
+    },
+    {
+      "id": 5,
+      "name": "Pancakes",
+      "ingredients": ["Flour", "Milk", "Egg", "Sugar"],
+      "instructions": "Mix all ingredients, cook on a pan, and serve with syrup.",
+      "image": "assets/images/pancakes.jpg",
+      "category": "Breakfast"
+    },
+    {
+      "id": 6,
+      "name": "Omelette",
+      "ingredients": ["Eggs", "Onion", "Tomato", "Salt", "Pepper"],
+      "instructions": "Whisk eggs, add chopped onion and tomato, cook in a pan.",
+      "image": "assets/images/omelette.jpg",
+      "category": "Breakfast"
+    },
+    {
+      "id": 7,
+      "name": "Spaghetti Aglio e Olio",
+      "ingredients": ["Spaghetti", "Garlic", "Olive Oil", "Chili Flakes"],
+      "instructions": "Boil spaghetti, sauté garlic in olive oil, mix together with chili flakes.",
+      "image": "assets/images/spaghetti.jpg",
+      "category": "Dinner"
+    },
+    {
+      "id": 8,
+      "name": "Fruit Salad",
+      "ingredients": ["Apple", "Banana", "Orange", "Honey"],
+      "instructions": "Chop all fruits, mix with honey, and serve fresh.",
+      "image": "assets/images/fruitsalad.jpg",
+      "category": "Snacks"
+    },
+    {
+      "id": 9,
+      "name": "Chickpea Salad",
+      "ingredients": ["Chickpeas", "Cucumber", "Tomato", "Olive Oil", "Lemon Juice"],
+      "instructions": "Mix all ingredients in a bowl and serve fresh.",
+      "image": "assets/images/chickpeasalad.jpg",
+      "category": "Lunch"
+    },
+    {
+      "id": 10,
+      "name": "Grilled Chicken",
+      "ingredients": ["Chicken Breast", "Garlic", "Olive Oil", "Lemon"],
+      "instructions": "Marinate chicken with garlic, olive oil, and lemon. Grill until golden.",
+      "image": "assets/images/grilledchicken.jpg",
+      "category": "Dinner"
+    }
+  ]
+  
